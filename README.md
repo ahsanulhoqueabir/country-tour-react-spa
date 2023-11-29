@@ -5,7 +5,7 @@
 
 # Country Tour with Single Page Application(SPA) React App
 
-[Show Live preview](https://elaborate-douhua-b2b595.netlify.app/)
+# [Show Live preview](https://elaborate-douhua-b2b595.netlify.app/)
 
 
 
@@ -61,8 +61,8 @@ You can clone this repository by running following command in terminal/command p
 https://github.com/ahsanulhoqueabir/country-tour-react-spa.git 
 
 ``` 
-<br>
-or download zip file from here [https://github.com/ahsanulhoqueabir/country-tour-react-spa]
+
+or download zip file [from here](https://github.com/ahsanulhoqueabir/country-tour-react-spa)
 
 
 <!-- Social Media Link -->
