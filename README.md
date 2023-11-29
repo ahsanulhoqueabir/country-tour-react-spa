@@ -5,8 +5,8 @@
 
 # Country Tour with Single Page Application(SPA) React App
 
-<h1> [Show Live preview] (https://elaborate-douhua-b2b595.netlify.app/)
-</h1>
+[Show Live preview](https://elaborate-douhua-b2b595.netlify.app/)
+
 
 
 # Focused On
@@ -33,7 +33,7 @@ replacing "myShop" with whatever name you prefer for your app.
 
 5. Wait until it finishes installing all dependencies.
 6. Once finished, navigate into the newly created project folder using: 
-````
+```
 cd myApp
 ```
 7. To start the development server run: 
@@ -46,11 +46,11 @@ This will open a new browser window displaying your application at http://localh
 
 
 # Resource Used
-1. For Country Data: (https://restcountries.com)[https://restcountries.com/]
-2. For Animation:  (Lottifiles)[https://lottiefiles.com]
-3. For Icons: (Heroicons)[https://heroicons.com/]
-4. FAQ Page Data: (Personal API)[https://raw.githubusercontent.com/ahsanul-database/fakeDB/main/historicalplace.json] 
-5. About Page Data: (Personal API)[https://raw.githubusercontent.com/ahsanul-database/fakeDB/main/aboutWorld.json]
+1. For Country Data: [restcountries.com](https://restcountries.com)
+2. For Animation:  [Lottifiles](https://lottiefiles.com)
+3. For Icons: [Heroicons](https://heroicons.com/)
+4. FAQ Page Data: [Personal API](https://raw.githubusercontent.com/ahsanul-database/fakeDB/main/historicalplace.json)
+5. About Page Data: [Personal API](https://raw.githubusercontent.com/ahsanul-database/fakeDB/main/aboutWorld.json)
 6. Image Used from Unplash and other public websites.
 
 
@@ -60,7 +60,8 @@ You can clone this repository by running following command in terminal/command p
 ``` 
 https://github.com/ahsanulhoqueabir/country-tour-react-spa.git 
 
-``` <br>
+``` 
+<br>
 or download zip file from here [https://github.com/ahsanulhoqueabir/country-tour-react-spa]
 
 
